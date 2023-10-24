@@ -1,20 +1,3 @@
-# AutoGen
-
-<!-- <p align="center">
-    <img src="https://github.com/microsoft/autogen/blob/main/website/static/img/flaml.svg"  width=200>
-    <br>
-</p> -->
-
-:fire: autogen has graduated from [FLAML](https://github.com/microsoft/FLAML) into a new project.
-
-<!-- :fire: Heads-up: We're preparing to migrate [autogen](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen) into a dedicated Github repository. Alongside this move, we'll also launch a dedicated Discord server and a website for comprehensive documentation.
-
-:fire: FLAML is highlighted in OpenAI's [cookbook](https://github.com/openai/openai-cookbook#related-resources-from-around-the-web).
-
-:fire: [autogen](https://microsoft.github.io/autogen/) is released with support for ChatGPT and GPT-4, based on [Cost-Effective Hyperparameter Optimization for Large Language Model Generation Inference](https://arxiv.org/abs/2303.04673).
-
-:fire: FLAML supports Code-First AutoML & Tuning – Private Preview in [Microsoft Fabric Data Science](https://learn.microsoft.com/en-us/fabric/data-science/). -->
-
 ## What is AutoGen
 
 AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. AutoGen agents are customizable, conversable, and seamlessly allow human participation. They can operate in various modes that employ combinations of LLMs, human inputs, and tools.
