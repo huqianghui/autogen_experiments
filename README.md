@@ -59,5 +59,7 @@ Autogen能检测到后。优化方向有随机性，1）对数据做过滤清洗
 
 <img width="1440" alt="Futurework" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/fc18110e-83ad-45bd-b9c5-f2ffe4fa3290">
 
+## 通过chainlit快速搭建一个WebUI 应用
+<img width="1440" alt="Screenshot 2023-10-24 at 22 44 58" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/7325cfab-3372-439d-ae1b-6b1481a6bbf3">
 
 
