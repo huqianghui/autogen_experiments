@@ -39,6 +39,17 @@ AutoGen的主要原因是：
    
 4. 轻松地扩展和重用现有的 agent，通过注册自定义的回复函数来定制 agent 的行为。
 
+## 使用相同命令下，不同的表现
+
+**query the books table, group by column "authors" of top 5 in bar picture**
+
+这里有一个authors是为null，python代码会出现异常。
+Autogen能检测到后。优化方向有随机性，1）对数据做过滤清洗最后剩下四条,2）对null用""处理，都得到最终结果。
+
+<img width="1440" alt="sql_null" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/d201fac7-57df-4f71-97a2-33fa911b202b">
+<img width="1440" alt="sql_null2" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/63bb43fe-5982-4678-8b1c-c423f90399f7">
+<img width="1440" alt="Screenshot 2023-10-24 at 13 52 54" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/ff2e3f07-e574-4477-86d0-ffb4531e475f">
+
 ## Autogen默认system prompt
 <img width="1440" alt="SystemPrompt" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/7392ff52-b06c-436a-808b-99658dbab60b">
 
