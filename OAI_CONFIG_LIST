@@ -1,0 +1,44 @@
+[
+    {
+        "model": "gpt4",
+        "OPENAI_API_KEY": "XXXXXX",
+        "OPENAI_API_BASE": "https://openaidemo-hu.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2023-05-15"
+    },
+    {
+        "model": "gpt4",
+        "OPENAI_API_KEY": "XXXXXX",
+        "OPENAI_API_BASE": "https://azure-search-openai-demo.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2023-05-15"
+    },
+    {
+        "model": "gpt4",
+        "OPENAI_API_KEY": "XXXXXX",
+        "OPENAI_API_BASE": "https://open-ai-demo-south-central.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2023-05-15"
+    },
+    {
+        "model": "gpt4",
+        "OPENAI_API_KEY": "XXXXXX",
+        "OPENAI_API_BASE": "https://openai-demo-hu-sc-03.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2023-05-15"
+    },
+    {
+        "model": "gpt-35-turbo-16k",
+        "api_key": "XXXXXX",
+        "api_base": "https://openaidemo-hu.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview"
+    },
+    {
+        "model": "gpt-35-turbo-16k",
+        "api_key": "XXXXXX",
+        "api_base": "https://azure-search-openai-demo.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview"
+    }
+]
