@@ -2,9 +2,9 @@
 
 在使用langchain & code interpreter 过程中，对性能和准确率和性能都有着更高的要求。
 
-Autogen在这两方面来看，都有一定的提升。
+而Autogen在这两方面来看，都有一定的提升。
 
-根据autogen的论文和自己体验确实能得到一些答案。
+下面根据autogen的论文和实际测试样例，做一些说明。
 
 **性能对比：**
 <img width="1440" alt="Performance" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/7660c70d-45e7-47af-afd2-35a329241fa9">
