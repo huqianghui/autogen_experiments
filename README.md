@@ -2,7 +2,8 @@
 
 在使用langchain & code interpreter 过程中，对性能和准确率和性能都有着更高的要求。
 
-而Autogen在这两方面来看，都有一定的提升。
+而Autogen在这两方面来看，都有一定的提升,而且在中间过程可以接受人的反馈。
+![autogen](https://github.com/huqianghui/autogen_experiments/assets/7360524/8f2797f2-56f0-4e10-beda-39dd063eb49c)
 
 下面根据autogen的论文和实际测试样例，做一些说明。
 
