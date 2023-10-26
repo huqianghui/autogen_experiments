@@ -8,6 +8,11 @@
 
 下面根据autogen的论文和实际测试样例，做一些说明。
 
+https://arxiv.org/pdf/2308.08155.pdf
+
+https://github.com/microsoft/autogen
+
+
 **性能对比：**
 <img width="1440" alt="Performance" src="https://github.com/huqianghui/autogen_experiments/assets/7360524/7660c70d-45e7-47af-afd2-35a329241fa9">
 
